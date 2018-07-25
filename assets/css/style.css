@@ -1,3 +1,15 @@
 body{
     background-color:rgba(20, 20, 20, 0.918);
 }
+/*=========== Index.html ==========*/
+
+/*== Navbar== */
+
+/* =NaV Brand= */
+#brand_logo{
+    height: 30px;
+}
+/* Call Us@ */
+.navbar{
+    background-color:rgba(229, 9, 20, 0.8) !important;
+}
