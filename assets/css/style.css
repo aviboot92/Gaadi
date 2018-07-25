@@ -13,3 +13,10 @@ body{
 .navbar{
     background-color:rgba(229, 9, 20, 0.8) !important;
 }
+.imageTray{
+ height: 190px;
+ width: 190px;
+}
+#cardTray{
+    margin-top: 10%; 
+}
